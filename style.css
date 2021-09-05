@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ /* header css starttttttttttttttttttttttttttttttttttttttttt */
+ header{
+     background-color: #e3f2fd;
+     padding: 10px 0;
+ }
+ .logo img{
+     width: 50px;
+     margin-right: 20px;
+ }
+ /* header css endddddddddddddddddddddddddddddddddddddddddd */
+
+ /* home barrrrrrrrrrrrrrrrr start */
+ .homebar{
+     background-color: #e9ecef;
+     margin-top: 50px;
+     padding: 10px 0;
+     border-radius: 5px;
+     
+ }
+ .breadcrumb-item{
+     position: relative;
+     top: 8px;
+     left: 20px;
+ }
+ .breadcrumb-item a{
+     text-decoration: none;
+ }
+ .homebar2{
+    background-color: #e9ecef;
+    margin: 20px 0;
+    padding: 10px 0;
+    border-radius: 5px;
+
+ }
+ /* home barrrrrrrrrrrrrrrrr end */
+
+ /* toast startttttttttttttttttttt */
+ .toast{
+     margin-top: 50px;
+ }
+ /* toast endddddddddddddddddddd */
+ /* collapsible section start */
+ .accordion-button::after{
+     display: none;
+ }
+ .scrollspy-example {
+    position: relative;
+    height: 160px;
+    overflow: auto;
+}
+
+  /* page section startttttttttttttttttttttttt */
+  .page{
+    position: relative;
+    top: 0;
+    left: 500px;
+  }
+  .drops{
+      margin-left: 100px;
+  }
+  
+  /* page section enddddddddddddddddddddddd */
+
+  footer{
+      background-color: #17a2b8;
+      text-align: center;
+      color: white;
+      padding: 15px 0;
+  }
+
